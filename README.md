@@ -1,4 +1,4 @@
-# Introduction-to-Deep-Learning-by-National-Research-University-Higher-School-of-Economics
+# Deep-Learning-by-HSE
 Assignments submitted on Jupyter Notebook
 Intro to Deep Learning by HSE
 

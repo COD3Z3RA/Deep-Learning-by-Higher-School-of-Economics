@@ -69,8 +69,8 @@ grader = grading.Grader(assignment_key="2v-uxpD7EeeMxQ6FWsz5LA",
                         all_parts=["wuwwC", "a4FK1", "qRsZ1"])
 
 # token expires every 30 min
-COURSERA_TOKEN ='28jtiFsvRp3alFgY' ### YOUR TOKEN HERE
-COURSERA_EMAIL ='duttasushant@yahoo.com' ### YOUR EMAIL HERE
+COURSERA_TOKEN ='2**************Y' ### YOUR TOKEN HERE
+COURSERA_EMAIL ='d*****************t@yahoo.com' ### YOUR EMAIL HERE
 
 """# Load dataset
 

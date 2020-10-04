@@ -10,8 +10,8 @@ import grading
 grader = grading.Grader(assignment_key="UaHtvpEFEee0XQ6wjK-hZg", 
                       all_parts=["xU7U4", "HyTF6", "uNidL", "ToK7N", "GBdgZ", "dLdHG"])
 # token expires every 30 min
-COURSERA_TOKEN = 'xvk44Bm4oHLHV6JT'
-COURSERA_EMAIL = 'duttasushant@yahoo.com' 
+COURSERA_TOKEN = 'x**********************T'
+COURSERA_EMAIL = 'd******************t@yahoo.com' 
 Two-dimensional classification
 To make things more intuitive, let's solve a 2D classification problem with synthetic data.
 

@@ -251,7 +251,7 @@ for epoch in tqdm_utils.tqdm_notebook_failsafe(range(50000)):
         sample_probas(1000)
 
 from submit_honor import submit_honor
-submit_honor((generator, discriminator), 'duttasushant@yahoo.com', 'Ge9wM92E4Cuw3Cxp')
+submit_honor((generator, discriminator), 'd**************t@yahoo.com', 'G************hhh')
 
 #The network was trained for about 15k iterations. 
 #Training for longer yields MUCH better results

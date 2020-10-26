@@ -346,8 +346,8 @@ for _ in range(10):
 
 
 # token expires every 30 min
-COURSERA_TOKEN = "LDGJUxY9BNewebfJ"
-COURSERA_EMAIL = "duttasushant@yahoo.com"
+COURSERA_TOKEN = "*****************"
+COURSERA_EMAIL = "d****************m"
 
 
 # In[26]:
